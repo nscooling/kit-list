@@ -2,9 +2,9 @@
 
 ## Spares
 
-* Inner tube x 2
+* Inner tube(s)
 * tyre levers
-* CO2 x 2  + head 
+* CO2(s)  + head 
 * Pump
 * Puncture repair kit / glueless patches
 * Multi-tool
@@ -25,6 +25,8 @@
 * brake pads
 * voile straps
 * latex-free gloves
+* brake cable
+* gear cable
 
 ### Tubeless
 * spare valve
@@ -37,3 +39,4 @@
 * spare cleat
 * spare bolts (4-6mm)
 * spare tyre
+
