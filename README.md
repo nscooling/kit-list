@@ -113,3 +113,7 @@
 * puffa jacket
 * beanie
 * dry-bag to keep them all in
+
+# Other lists
+
+[How to Pack for an Ultra-Distance Cycling Event](https://www.apidura.com/journal/how-to-pack-for-an-ultra-distance-cycling-event/)
